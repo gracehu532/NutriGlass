@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results trackingurl="html/resources/TrackingData.zip">
+  <arel><![CDATA[html/index.html?f04e0774368c5afc9265b12d01b31de1]]></arel>
+  <object id="image1">
+    <title><![CDATA[fruits60]]></title>
+    <assets3d>
+      <model><![CDATA[html/resources/7ee7d2b833efbfceb9456c14975f230d/7ee7d2b833efbfceb9456c14975f230d.zip]]></model>
+      <transform>
+        <translation>
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>5.0032486916</z>
+        </translation>
+        <rotation type="eulerdeg">
+          <x>0.0</x>
+          <y>0.0</y>
+          <z>0.0</z>
+        </rotation>
+        <scale>
+          <x>2.5648331642</x>
+          <y>2.5648331642</y>
+          <z>2.5648331642</z>
+        </scale>
+      </transform>
+      <properties>
+        <coordinatesystemid>1</coordinatesystemid>
+      </properties>
+    </assets3d>
+    <viewparameters>
+      <visibility>
+        <liveview>false</liveview>
+      </visibility>
+    </viewparameters>
+  </object>
+</results>
